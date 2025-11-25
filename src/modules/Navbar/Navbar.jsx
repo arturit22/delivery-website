@@ -2,7 +2,6 @@ import styles from "./Navbar.module.css"
 
 export default function Navbar() {
     return (
-        <>
         <nav className={styles.navbar}>
             <div className={styles.leftContent}>
                 <a href="">Калькулятор</a>
@@ -15,6 +14,5 @@ export default function Navbar() {
                 <button className={styles.button}>Оставить заявку</button>
             </div>
         </nav>
-        </>
     )
 }

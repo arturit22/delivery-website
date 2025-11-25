@@ -1,0 +1,23 @@
+.container {
+    width: 30%;
+    margin-top: 2rem;
+    padding-top: 2rem;
+}
+
+.title h1{
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.content p{
+    font-size: 18px;
+    margin-top: 1rem;
+    font-weight: 400;
+}
+
+.image img{
+    width: 600px;
+    height: 350px;
+    margin-top: 1rem;
+    border-radius: 5%;
+}

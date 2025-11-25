@@ -1,9 +1,8 @@
 .header {
-    padding: 1rem 8rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    margin-top: 1rem;
 }
 
 .header a {
